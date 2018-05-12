@@ -1,0 +1,31 @@
+_repo: All-the-Days-of-My-Life--An-AutobiographyThe-Red-Leaves-of-a-Human-Heart_35706
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35706-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barr, Amelia E.
+    alias: Barr, Amelia Edith Huddleston
+    birthdate: 1831
+    deathdate: 1919
+    gutenberg_agent_id: '2199'
+    url: http://www.gutenberg.org/2009/agents/2199
+    wikipedia: http://en.wikipedia.org/wiki/Amelia_Edith_Huddleston_Barr
+description: ''
+gutenberg_issued: '2011-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Novelists, American -- 19th century -- Biography'
+- !lcc 'PS'
+- !lcsh 'Barr, Amelia E., 1831-1919'
+title: 'All the Days of My Life: An Autobiography
+
+  The Red Leaves of a Human Heart'
+url: http://www.gutenberg.org/ebooks/35706
